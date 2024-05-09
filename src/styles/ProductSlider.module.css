@@ -1,0 +1,35 @@
+.image {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.homeContainer {
+    max-width: 80%;
+    margin: auto;
+}
+.title {
+    text-align: center;
+    color: #333333;
+    font-size: 13px;
+    font-weight: 600;
+}
+.prodBoxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.borderImage {
+    border-radius: 50%;
+    border: 1px solid #e6e6e6;
+    width: 70px;
+}
+.prodBoxes:hover .title {
+    color: #FF7900;
+    transition: .5s;
+}
+
+.prodBoxes:hover .borderImage {
+    border-color: #FF7900;
+    transition: .5s;
+}

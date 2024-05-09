@@ -1,0 +1,10 @@
+.favContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}

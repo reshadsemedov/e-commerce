@@ -1,0 +1,21 @@
+table {
+    width: 70%;
+    border-collapse: separate;
+    border-spacing: 0 12px;
+    color: white;
+    padding: 60px 0;
+}
+th {
+    text-align: left;
+    font-size: 18px;
+}
+td {
+    font-size: 14px;
+}
+footer {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+

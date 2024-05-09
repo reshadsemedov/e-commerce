@@ -7,7 +7,7 @@ export default function Footer() {
         <footer>
             <table>
                 <tr>
-                    <th>Trendyol</th>
+                    <th>Trendyol!</th>
                     <th>About us</th>
                     <th>Kampanyalar</th>
                     <th>Yardim</th>
